@@ -3,7 +3,7 @@
 
 My name is Erik Bryan. I'm a Fullstack Developer.   👩‍💻
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Erikbr&repo=Erikbr&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=erikbryanxxs&repo=Erikbr&countColorcountColor)
 
 
 
@@ -11,8 +11,8 @@ My name is Erik Bryan. I'm a Fullstack Developer.   👩‍💻
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erikbryanxxx&layout=compact&count_private=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=erikbryanxxx&hide_border=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erikbryanxxs&layout=compact&count_private=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=erikbryanxxs&hide_border=true)
 
 
 
